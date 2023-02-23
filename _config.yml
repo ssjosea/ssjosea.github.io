@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog personal de Josea
+title: Blog personal de Josea - Prácticas IAW
 email: joseasir@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Esta práctica se basa en la creación de blogs con Jekyll y GitHub Pages. 
+  Jekyll es un generador de sitios web estáticos que nos permite crear de forma sencilla blogs, 
+  sitios webs personales o webs para proyectos. Los sitios webs generados con Jekyll no usan una base de datos,
+  el contenido del sitio web está escrito en archivos de texto plano en formato Markdown (o Textile) y plantillas Liquid.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://ssjosea.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: joseassj
+github_username:  ssjosea
 
 # Build settings
 theme: minima
